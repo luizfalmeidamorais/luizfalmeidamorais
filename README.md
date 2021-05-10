@@ -35,4 +35,4 @@ I'm a Beginner Developer from Brazil 💚, **15 years old** 👶🏻.
 
 #### View my stats on Github 
    
-![LuizF245 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizF245&show_icons=true&theme=merko)
+![LuizF245](https://github-readme-stats.vercel.app/api?username=LuizF245&show_icons=true&theme=dark)
