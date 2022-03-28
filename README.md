@@ -1,38 +1,33 @@
-<!--### Hi there 👋
-**LuizF245/LuizF245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi 👋, I'm Luiz Fernando</h2>
 
-Here are some ideas to get you started:
+### I'm...
+* 🤟 15 years old
+* 👨‍💻 Beginner Developer from Brasil 💚
+* 🎓 2nd ear High School Student
+* 🔭 Currently learning **Kotlin** and improving **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent achievements 🏆
+* 🥈 **[OBA](https://www.oba.org.br/site/)** — Silver Medal — 2021
+* 📃 **[CUCo](https://www.fuvest.br/cuco-competicao-usp-de-conhecimentos/)** — Best Performance Certificate (USP - University of São Paulo) — 2021
+* 📃 **[OBMEP](https://www.obmep.org.br)** — Honorable Mention — 2018, 2019 and 2021
 
-### 👋 Hello World, I'm Luiz F A Morais!  
+### Languages and Frameworks
+<img align="left" src="icons/java.svg" />
+<img align="left" src="icons/kotlin.svg" />
+<img align="left" src="icons/bootstrap.svg" />
 
-<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
+<br/>
+<br/>
+<br/>
 
----- 
+Feel free to contact me via ✉ **<a href="mailto:me@luizfernando.dev.br">email</a>**.
 
-Hi, I'm Luiz Fernando, but you can call me **Luiz**. 
+<p align="left"><a href="https://twitter.com/LuizF245" target="blank"><img align="left" src="icons/twitter.svg" alt="twitter" width="22px" /></a></p>
 
-I'm a Beginner Developer from Brazil 💚, **15 years old** 👶🏻. 
+---
 
-----
+_"Human beings were endowed with just enough intelligence to clearly see how inadequate intelligence is when faced with what exists." — Albert Einstein_
 
-**Languages and Tools:**  
-
-![Java](https://img.shields.io/badge/-Java-f55442?style=for-the-badge&logo=java)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-
-----
-
-#### View my stats on Github 
-   
-![LuizF245](https://github-readme-stats.vercel.app/api?username=LuizF245&show_icons=true&theme=dark)
+<!--<br />
+<br />
+<br />-->
