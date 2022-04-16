@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Luiz Fernando</h2>
 
 ### I'm...
-* 🤟 15 years old
+* 🤟 16 years old
 * 👨‍💻 Beginner Developer from Brasil 💚
 * 🎓 2nd ear High School Student
 * 🔭 Currently learning **Kotlin** and improving **Java**
