@@ -16,12 +16,11 @@
 <img align="left" src="icons/kotlin.svg" />
 <img align="left" src="icons/bootstrap.svg" />
 
+<br/>
+<br/>
+
 ### Listening to 🔊
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&redirect=true)
-
-<br/>
-<br/>
-<br/>
 
 Feel free to contact me via ✉ **<a href="mailto:luizfalmeidamorais@gmail.com">email</a>**.
 
@@ -34,3 +33,6 @@ _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit
 <!--<br />
 <br />
 <br />-->
+
+##
+
