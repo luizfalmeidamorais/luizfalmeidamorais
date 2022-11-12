@@ -16,17 +16,20 @@
 <img align="left" src="icons/kotlin.svg" />
 <img align="left" src="icons/bootstrap.svg" />
 
+### Listening to 🔊
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&redirect=true)
+
 <br/>
 <br/>
 <br/>
 
-Feel free to contact me via ✉ **<a href="mailto:me@luizfernando.dev.br">email</a>**.
+Feel free to contact me via ✉ **<a href="mailto:luizfalmeidamorais@gmail.com">email</a>**.
 
-<p align="left"><a href="https://twitter.com/LuizF245" target="blank"><img align="left" src="icons/twitter.svg" alt="twitter" width="22px" /></a></p>
+<p align="left"><a href="https://twitter.com/LuizFAM" target="blank"><img align="left" src="icons/twitter.svg" alt="twitter" width="22px" /></a></p>
 
 ---
 
-_"Human beings were endowed with just enough intelligence to clearly see how inadequate intelligence is when faced with what exists." — Albert Einstein_
+_"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit Prince (Antoine de Saint-Exupéry)_
 
 <!--<br />
 <br />
