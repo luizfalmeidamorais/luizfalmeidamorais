@@ -2,7 +2,7 @@
 
 ### I'm...
 * 🤟 16 years old
-* 👨‍💻 Beginner Developer from Brasil 💚
+* 👨‍💻 Beginner Developer from Brazil 💚
 * 🎓 2nd ear High School Student and General Coordinator of the Student Union
 * 🔭 Currently learning **Kotlin** and improving **Java**
 
