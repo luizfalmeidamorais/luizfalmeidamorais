@@ -3,7 +3,7 @@
 ### I'm...
 * 🤟 16 years old
 * 👨‍💻 Beginner Developer from Brasil 💚
-* 🎓 2nd ear High School Student
+* 🎓 2nd ear High School Student and General Coordinator of the Student Union
 * 🔭 Currently learning **Kotlin** and improving **Java**
 
 ### Recent achievements 🏆
@@ -20,7 +20,7 @@
 <br/>
 
 ### Listening to 🔊
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&cover_image=true&theme=novatorem&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&redirect=true)
 
 Feel free to contact me via ✉ **<a href="mailto:luizfalmeidamorais@gmail.com">email</a>**.
 
