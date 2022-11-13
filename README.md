@@ -36,3 +36,4 @@ _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit
 
 ##
 
+  ![Snake animation](https://github.com/LuizF245/LuizF245/blob/output/github-contribution-grid-snake.svg)
