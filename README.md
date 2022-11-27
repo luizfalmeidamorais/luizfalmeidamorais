@@ -11,10 +11,34 @@
 * 📃 **[CUCo](https://www.fuvest.br/cuco-competicao-usp-de-conhecimentos/)** — Best Performance Certificate (USP - University of São Paulo) — 2021
 * 📃 **[OBMEP](https://www.obmep.org.br)** — Honorable Mention — 2018, 2019 and 2021
 
-### Languages and Frameworks
-<img align="left" src="icons/java.svg" />
-<img align="left" src="icons/kotlin.svg" />
-<img align="left" src="icons/bootstrap.svg" />
+### Skills 🚀
+#### Applications and Data
+<img align="left" width="40px" src="icons/css.png"/>
+<img align="left" width="40px" src="icons/html.png"/>
+<img align="left" width="40px" src="icons/java.png"/>
+<img align="left" width="40px" src="icons/kotlin.png"/>
+<img align="left" width="40px" src="icons/firebase.png"/>
+<img align="left" width="40px" src="icons/mysql.png"/>
+
+<br/><br/>
+
+#### Utilities
+<img align="left" width="40px" src="icons/insomnia.png"/>
+<img align="left" width="40px" src="icons/postman.png"/>
+
+<br/><br/>
+
+#### DevOps
+<img align="left" width="40px" src="icons/git.png"/>
+<img align="left" width="40px" src="icons/github.png"/>
+
+<br/><br/>
+
+#### Development Tools
+<img align="left" width="40px" src="icons/eclipse.png"/>
+<img align="left" width="40px" src="icons/figma.png"/>
+<img align="left" width="40px" src="icons/trello.png"/>
+<img align="left" width="40px" src="icons/vscode.png"/>
 
 <br/>
 <br/>
@@ -22,18 +46,12 @@
 ### Listening to 🔊
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&cover_image=true&theme=novatorem&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&redirect=true)
 
-Feel free to contact me via ✉ **<a href="mailto:luizfalmeidamorais@gmail.com">email</a>**.
-
-<p align="left"><a href="https://twitter.com/LuizFAM" target="blank"><img align="left" src="icons/twitter.svg" alt="twitter" width="22px" /></a></p>
+<p><a href="https://twitter.com/LuizFAM" target="blank"><img align="left" src="icons/twitter.svg" alt="twitter" width="22px"/></a></p>
 
 ---
 
 _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit Prince (Antoine de Saint-Exupéry)_
 
-<!--<br />
-<br />
-<br />-->
-
 ##
 
-  ![Snake animation](https://github.com/LuizF245/LuizF245/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuizF245/LuizF245/blob/output/github-contribution-grid-snake.svg)
