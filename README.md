@@ -1,10 +1,10 @@
 <h2>Hi 👋, I'm Luiz Fernando</h2>
 
 ### I'm...
-* 🤟 16 years old
+* 🤟 17 years old
 * 👨‍💻 Beginner Developer from Brazil 💚
 * 🎓 3rd year High School Student
-* 🔭 Currently learning **Kotlin** and improving **Java**
+* 🔭 Currently learning **Kotlin**, **JavaScript** and improving **Java**
 
 ### Recent achievements 🏆
 * 🥈 **[OBA](https://www.oba.org.br/site/)** — Silver Medal — 2021
