@@ -11,9 +11,6 @@
 * 📃 **[CUCo](https://www.fuvest.br/cuco-competicao-usp-de-conhecimentos/)** — Best Performance Certificate (USP - University of São Paulo) — 2021
 * 📃 **[OBMEP](https://www.obmep.org.br)** — Honorable Mention — 2018, 2019 and 2021
 
-<br/>
-<br/>
-
 ### Listening to 🔊
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&cover_image=true&theme=novatorem&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=22v3rugwuvwsgayeda4vf2bxq&redirect=true)
 
