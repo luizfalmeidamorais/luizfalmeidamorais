@@ -11,35 +11,6 @@
 * 📃 **[CUCo](https://www.fuvest.br/cuco-competicao-usp-de-conhecimentos/)** — Best Performance Certificate (USP - University of São Paulo) — 2021
 * 📃 **[OBMEP](https://www.obmep.org.br)** — Honorable Mention — 2018, 2019 and 2021
 
-### Skills 🚀
-#### Applications and Data
-<img align="left" width="40px" src="icons/css.png"/>
-<img align="left" width="40px" src="icons/html.png"/>
-<img align="left" width="40px" src="icons/java.png"/>
-<img align="left" width="40px" src="icons/kotlin.png"/>
-<img align="left" width="40px" src="icons/firebase.png"/>
-<img align="left" width="40px" src="icons/mysql.png"/>
-
-<br/><br/>
-
-#### Utilities
-<img align="left" width="40px" src="icons/insomnia.png"/>
-<img align="left" width="40px" src="icons/postman.png"/>
-
-<br/><br/>
-
-#### DevOps
-<img align="left" width="40px" src="icons/git.png"/>
-<img align="left" width="40px" src="icons/github.png"/>
-
-<br/><br/>
-
-#### Development Tools
-<img align="left" width="40px" src="icons/eclipse.png"/>
-<img align="left" width="40px" src="icons/figma.png"/>
-<img align="left" width="40px" src="icons/trello.png"/>
-<img align="left" width="40px" src="icons/vscode.png"/>
-
 <br/>
 <br/>
 
