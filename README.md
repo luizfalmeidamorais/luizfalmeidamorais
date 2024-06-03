@@ -1,9 +1,9 @@
 <h2>Hi 👋, I'm Luiz Fernando</h2>
 
 ### I'm...
-* 🤟 17 years old
-* 👨‍💻 Beginner Developer from Brazil 💚
-* 🎓 3rd year High School Student
+* 🤟 18 years old
+* 👨‍💻 Junior Developer from Brazil 💚
+* 🎓 Studying Computer Engineering at FACENS (Faculty of Engineering of Sorocaba)
 * 🔭 Currently learning **TypeScript** and improving **Java**
 
 ---
