@@ -12,8 +12,6 @@ _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit
 
 ##
 
-![Snake animation](https://github.com/luizfalmeidamorais/luizfalmeidamorais/blob/output/github-contribution-grid-snake.svg)
-
 <!--START_SECTION:waka-->
 
 ```txt
