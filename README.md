@@ -15,4 +15,11 @@ _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit
 ![Snake animation](https://github.com/luizfalmeidamorais/luizfalmeidamorais/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   4 hrs 55 mins   ████████████████████████▒   97.18 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
