@@ -15,11 +15,11 @@ _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 58 mins   ███████████████████████░░   91.84 %
-Prisma       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   10 hrs 3 mins   ███████████████████████▓░   94.59 %
+Prisma       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
