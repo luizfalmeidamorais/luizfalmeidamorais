@@ -15,7 +15,8 @@ _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   5 mins          █████████████████████████   100.00 %
+C      10 mins         ████████████████▒░░░░░░░░   65.88 %
+HTML   5 mins          ████████▓░░░░░░░░░░░░░░░░   34.12 %
 ```
 
 <!--END_SECTION:waka-->
