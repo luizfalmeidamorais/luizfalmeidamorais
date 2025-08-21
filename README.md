@@ -15,11 +15,11 @@ _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 12 mins  █████████████████████▒░░░   85.32 %
-Prisma       1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-YAML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript   14 hrs 46 mins  ████████████████████░░░░░   80.21 %
+Prisma       1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Docker       57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+YAML         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Bash         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
