@@ -17,7 +17,7 @@ _"Tu deviens responsable pour toujours de ce que tu as apprivoisé" – Le Petit
 ```txt
 TypeScript   9 hrs 45 mins   ████████████████████▒░░░░   81.40 %
 Bash         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 Prisma       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 TSConfig     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
