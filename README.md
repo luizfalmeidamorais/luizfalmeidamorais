@@ -1,7 +1,7 @@
-<h1 align="center">Luiz Fernando de Almeida Morais</h1>
+<h1 align="center">Luiz Fernando Almeida Morais</h1>
 
 <p align="center">
-  Software Developer • Computer Engineering Student • Brazil 🇧🇷
+  Full Stack Software Developer • Computer Engineering Student • Brazil 🇧🇷
 </p>
 
 <p align="center">
@@ -11,24 +11,31 @@
   <a href="https://github.com/luizfalmeidamorais?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-blue?style=flat-square" />
   </a>
-  <a href="https://wakatime.com/@luizfalmeidamorais">
-    <img src="https://img.shields.io/badge/WakaTime-Development%20Metrics-black?style=flat-square&logo=wakatime" />
+  <a href="https://lattes.cnpq.br/7940943457123602">
+    <img src="https://img.shields.io/badge/Lattes-CNPq-1A5FB4?style=flat-square" />
+  </a>
+  <a href="https://orcid.org/0009-0004-1548-9424">
+    <img src="https://img.shields.io/badge/ORCID-0009--0004--1548--9424-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 🇧🇷 Sobre
-Desenvolvedor de software e estudante de **Engenharia da Computação (FACENS)**, atuando como **desenvolvedor autônomo** no desenvolvimento de **sistemas corporativos**.
+Desenvolvedor **Full Stack** e estudante de **Engenharia da Computação (UniFACENS)**, atuando como **desenvolvedor autônomo** no desenvolvimento de **sistemas corporativos**.
 
-Atualmente focado no ecossistema **TypeScript**, construindo aplicações robustas voltadas à **gestão de processos, dados e operações**, com preocupação constante em arquitetura, manutenibilidade e qualidade de código.
+Cofundador da **Apptivium Technologies**, uma empresa em fase de estruturação voltada ao desenvolvimento de **soluções tecnológicas sob medida**, com foco em sistemas, automação e aplicações modernas.
+
+Atualmente focado no ecossistema **TypeScript**, construindo aplicações voltadas à **gestão de processos, dados e operações**, com atenção especial à arquitetura, manutenibilidade e qualidade de código.
 
 ---
 
 ## 🇺🇸 About
-Software developer and **Computer Engineering student (FACENS)**, currently working as a **freelance developer** focused on **corporate and internal systems**.
+Full Stack Software Developer and **Computer Engineering student (UniFACENS)**, currently working as a **freelance developer** and **co-founder of Apptivium Technologies**.
 
-Strong focus on the **TypeScript ecosystem**, building scalable and maintainable applications for **process management, data organization and operational workflows**, with emphasis on software architecture and clean code practices.
+I primarily focus on the **TypeScript ecosystem**, building scalable and maintainable **full stack applications** for corporate and internal systems, covering backend architecture, APIs and modern frontend interfaces.
+
+My work emphasizes clean architecture, code quality and long-term maintainability.
 
 ---
 
@@ -37,28 +44,25 @@ Strong focus on the **TypeScript ecosystem**, building scalable and maintainable
 - NestJS • Next.js • React
 - Prisma ORM
 - PostgreSQL
-- System architecture and backend design
+- Backend architecture & system design
 
 ---
 
 ## ⭐ Featured Projects
-### 🚚 Contract & Fleet Management System
-Internal corporate system designed to manage:
+### Contract & Fleet Management System
+Corporate-oriented internal system designed to manage:
 - contracts
 - vehicle allocation
 - maintenance workflows  
 
-Built using **TypeScript**, **NestJS**, **Prisma** and **PostgreSQL**, with a modular architecture and focus on long-term scalability.
+Developed using **TypeScript**, **NestJS**, **Prisma** and **PostgreSQL**, following modular architecture principles and long-term scalability.
 
 ---
 
-### 🌦️ Educational Weather Station
-Educational engineering project developed in partnership with a public high school, focused on:
-- applied engineering concepts
-- real data collection
-- student-led development  
+### Educational Weather Station
+Engineering-focused educational project developed in partnership with a public high school.
 
-Project entirely built and maintained by high school students under technical guidance.
+The project promotes hands-on learning, real data collection and student-led development.
 
 ---
 
