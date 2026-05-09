@@ -77,16 +77,16 @@ The project promotes hands-on learning, real data collection and student-led dev
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
-Total Time: 20 hrs 55 mins
+Total Time: 17 hrs 16 mins
 
-TypeScript   18 hrs 5 mins   █████████████████████▓░░░   86.14 %
-Prisma       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Bash         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+TypeScript   14 hrs 9 mins   ████████████████████▒░░░░   81.91 %
+YAML         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Prisma       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Bash         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
