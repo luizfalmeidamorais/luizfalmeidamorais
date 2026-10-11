@@ -77,13 +77,12 @@ The project promotes hands-on learning, real data collection and student-led dev
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2026 - To: 09 October 2026
+From: 03 October 2026 - To: 10 October 2026
 
-Total Time: 1 hr 31 mins
+Total Time: 1 hr 9 mins
 
-Other        3 hrs 20 mins   █████████████████░░░░░░░░   68.56 %
-TypeScript   1 hr 29 mins    ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Other        2 hrs 55 mins   █████████████████░░░░░░░░   67.49 %
+TypeScript   1 hr 24 mins    ████████░░░░░░░░░░░░░░░░░   32.51 %
 ```
 
 <!--END_SECTION:waka-->
